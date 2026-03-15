@@ -30,10 +30,3 @@ Combined multiple processing techniques into a single output.
 ### Activity 5: Metadata & Properties
 Focused on image data and file properties.
 * **Key Tasks:** Printing file metadata (filename, dimensions, format, and size) while applying the Canny operator to highlight primary edges.
-
----
-
-## 🛠️ Setup
-1. **Clone:** `git clone https://github.com/Eanicy/GVC.git`
-2. **Install:** `pip install opencv-python matplotlib numpy`
-3. **Run:** `python Activity4.py`
