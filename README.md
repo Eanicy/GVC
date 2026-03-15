@@ -1,6 +1,6 @@
-# GVC - Graphical and Visual Computing
+# GVC - Graphical and Visual Computing Activity
 
-This repository documents five core activities exploring digital image processing using **OpenCV** and **Matplotlib**.
+This documents five core activities exploring digital image processing using **OpenCV** and **Matplotlib**.
 
 ## Result (Activity 4)
 The image below demonstrates the full processing pipeline: original color input, grayscale conversion, intensity distribution (histogram), and Canny edge detection.
